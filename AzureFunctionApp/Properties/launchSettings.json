@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureFunctionApp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
